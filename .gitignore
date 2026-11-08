@@ -1,0 +1,30 @@
+# Environment
+.env
+
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# Gradle
+.gradle
+build
+
+# IntelliJ
+out/
+.idea
+*.iml
+*.ipr
+*.iws
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# other
+eclipse
+run
+test
+logs
+temp
